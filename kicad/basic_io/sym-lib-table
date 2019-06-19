@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name emeb_libary)(type Legacy)(uri ${KIPRJMOD}/../library/emeb_library.lib)(options "")(descr ""))
+  (lib (name basic_io-rescue)(type Legacy)(uri ${KIPRJMOD}/basic_io-rescue.lib)(options "")(descr ""))
+)

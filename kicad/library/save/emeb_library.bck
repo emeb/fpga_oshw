@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC125_5u
+D Quad buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
+#
+$CMP Crystal_4pin_SMD
+D 4-pin SMD 
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP ILI9341_SPI
+D Generic connector, single row, 01x14
+K connector
+F ~
+$ENDCMP
+#
+$CMP JACK_TRS_5PINS
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+$CMP LD1117_tab
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT223
+K REGULATOR LDO 3.3V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LM4040
+D Zener Diode, alternativ symbol
+K diode
+F https://en.wikipedia.org/wiki/Zener_diode
+$ENDCMP
+#
+#End Doc Library
